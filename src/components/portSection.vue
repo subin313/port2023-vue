@@ -1,5 +1,5 @@
 <script setup>
-import { portText } from "../constants";
+import { portText } from "@/constants";
 </script>
 
 <template>
@@ -178,6 +178,4 @@ export default {
 }
 </style>
 
-git add .
-git commit -m "🥺 오류 찾는 중"
-git push -u origin main
+
