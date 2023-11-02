@@ -160,7 +160,3 @@ import { contactText } from '../constants';
 }
 
 </style>
-
-git add .
-git commit -m "😤 콘텐트 완료!"
-git push -u origin main
