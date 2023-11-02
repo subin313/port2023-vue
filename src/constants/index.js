@@ -179,3 +179,14 @@ export const portText = [
         name:"박수빈 포트폴리오",
     },
 ]
+
+export const contactText = [
+    {
+        link:"https://2023-subing-react.netlify.app",
+        title:"KAKAO : SUBINGGOOD",
+    },
+    {
+        link:"https://2023-subing-react.netlify.app",
+        title:"Mail : SUBINGGOOD@naver.com",
+    },
+];
