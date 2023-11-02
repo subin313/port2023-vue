@@ -190,3 +190,38 @@ export const contactText = [
         title:"Mail : SUBINGGOOD@naver.com",
     },
 ];
+
+export const footerText = [
+    {
+        title:"react",
+        view:"https://2023-subing-react.netlify.app",
+        desc:
+            "리액트를 이용하여 제작하였습니다.",
+    },
+    {
+        title:"vite",
+        view:"https://2023-subing-react.netlify.app",
+        desc: "비트를 이용하여 제작하였습니다.",
+    },
+    {
+        title:"vue",
+        view:"https://2023-subing-react.netlify.app",
+        desc: "뷰를 이용하여 제작하였습니다.",
+    },
+    {
+        title:"GITHUB",
+        view:"https://2023-subing-react.netlify.app",
+        desc:  "Github에서 코드를 볼 수 있습니다.",
+    },
+    {
+        title:"SCSS",
+        view:"https://2023-subing-react.netlify.app",
+        desc: "scss를 이용한 사이트.",
+    },
+    {
+        title:"SCSS",
+        view:"https://2023-subing-react.netlify.app",
+        desc:  "scss를 이용한 사이트.",
+    },
+]
+
