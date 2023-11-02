@@ -1,3 +1,4 @@
+
 export const headerNav = [
     {
         title: "intro",
@@ -81,5 +82,100 @@ export const siteText = [
         code:"https://github.com/subin313/port2023-vite",
         view:"http://2023-subing-react.netlify.app",
         info:["site coding","production period : two days","use stack : html5/css3. SCSS Variable, next"],
+    },
+]
+
+import port01 from "../assets/img/about.jpg";
+
+export const portText = [
+    {
+        num:"01",
+        title:"박수빈 비트 포트폴리오",
+        desc:"라마 디자인을 통해 자신의 스킬을 가장 멋지게 표현한 포트폴리오입니다. 가로 모드와 세로 모드는 매우 인상적이며 특히 리액트와 비트를 이용하여 제작한 것은 더욱 놀랍습니다.이 사이트는 awwwards.com에도 인정받아 올라간 포트폴리오입니다. 확실히 그의 뛰어난 디자인 스킬과 기술력이 빛을 발휘한 결과물인 것 같습니다.",
+        img: port01,
+        code:"https://github.com/subin313/port2023-vite",
+        view:"http://2023-subin-vite.netlify.app",
+        name:"박수빈 포트폴리오",
+    },
+    {
+        num:"02",
+        title:"박수빈 비트 포트폴리오",
+        desc:"라마 디자인을 통해 자신의 스킬을 가장 멋지게 표현한 포트폴리오입니다. 가로 모드와 세로 모드는 매우 인상적이며 특히 리액트와 비트를 이용하여 제작한 것은 더욱 놀랍습니다.이 사이트는 awwwards.com에도 인정받아 올라간 포트폴리오입니다. 확실히 그의 뛰어난 디자인 스킬과 기술력이 빛을 발휘한 결과물인 것 같습니다.",
+        img:port01,
+        code:"https://github.com/subin313/port2023-vite",
+        view:"http://2023-subin-vite.netlify.app",
+        name:"박수빈 포트폴리오",
+    },
+    {
+        num:"03",
+        title:"박수빈 비트 포트폴리오",
+        desc:"라마 디자인을 통해 자신의 스킬을 가장 멋지게 표현한 포트폴리오입니다. 가로 모드와 세로 모드는 매우 인상적이며 특히 리액트와 비트를 이용하여 제작한 것은 더욱 놀랍습니다.이 사이트는 awwwards.com에도 인정받아 올라간 포트폴리오입니다. 확실히 그의 뛰어난 디자인 스킬과 기술력이 빛을 발휘한 결과물인 것 같습니다.",
+        img:port01,
+        code:"https://github.com/subin313/port2023-vite",
+        view:"http://2023-subin-vite.netlify.app",
+        name:"박수빈 포트폴리오",
+    },
+    {
+        num:"04",
+        title:"박수빈 비트 포트폴리오",
+        desc:"라마 디자인을 통해 자신의 스킬을 가장 멋지게 표현한 포트폴리오입니다. 가로 모드와 세로 모드는 매우 인상적이며 특히 리액트와 비트를 이용하여 제작한 것은 더욱 놀랍습니다.이 사이트는 awwwards.com에도 인정받아 올라간 포트폴리오입니다. 확실히 그의 뛰어난 디자인 스킬과 기술력이 빛을 발휘한 결과물인 것 같습니다.",
+        img:port01,
+        code:"https://github.com/subin313/port2023-vite",
+        view:"http://2023-subin-vite.netlify.app",
+        name:"박수빈 포트폴리오",
+    },
+    {
+        num:"05",
+        title:"박수빈 비트 포트폴리오",
+        desc:"라마 디자인을 통해 자신의 스킬을 가장 멋지게 표현한 포트폴리오입니다. 가로 모드와 세로 모드는 매우 인상적이며 특히 리액트와 비트를 이용하여 제작한 것은 더욱 놀랍습니다.이 사이트는 awwwards.com에도 인정받아 올라간 포트폴리오입니다. 확실히 그의 뛰어난 디자인 스킬과 기술력이 빛을 발휘한 결과물인 것 같습니다.",
+        img:port01,
+        code:"https://github.com/subin313/port2023-vite",
+        view:"http://2023-subin-vite.netlify.app",
+        name:"박수빈 포트폴리오",
+    },
+    {
+        num:"06",
+        title:"박수빈 비트 포트폴리오",
+        desc:"라마 디자인을 통해 자신의 스킬을 가장 멋지게 표현한 포트폴리오입니다. 가로 모드와 세로 모드는 매우 인상적이며 특히 리액트와 비트를 이용하여 제작한 것은 더욱 놀랍습니다.이 사이트는 awwwards.com에도 인정받아 올라간 포트폴리오입니다. 확실히 그의 뛰어난 디자인 스킬과 기술력이 빛을 발휘한 결과물인 것 같습니다.",
+        img:port01,
+        code:"https://github.com/subin313/port2023-vite",
+        view:"http://2023-subin-vite.netlify.app",
+        name:"박수빈 포트폴리오",
+    },
+    {
+        num:"07",
+        title:"박수빈 비트 포트폴리오",
+        desc:"라마 디자인을 통해 자신의 스킬을 가장 멋지게 표현한 포트폴리오입니다. 가로 모드와 세로 모드는 매우 인상적이며 특히 리액트와 비트를 이용하여 제작한 것은 더욱 놀랍습니다.이 사이트는 awwwards.com에도 인정받아 올라간 포트폴리오입니다. 확실히 그의 뛰어난 디자인 스킬과 기술력이 빛을 발휘한 결과물인 것 같습니다.",
+        img:port01,
+        code:"https://github.com/subin313/port2023-vite",
+        view:"http://2023-subin-vite.netlify.app",
+        name:"박수빈 포트폴리오",
+    },
+    {
+        num:"08",
+        title:"박수빈 비트 포트폴리오",
+        desc:"라마 디자인을 통해 자신의 스킬을 가장 멋지게 표현한 포트폴리오입니다. 가로 모드와 세로 모드는 매우 인상적이며 특히 리액트와 비트를 이용하여 제작한 것은 더욱 놀랍습니다.이 사이트는 awwwards.com에도 인정받아 올라간 포트폴리오입니다. 확실히 그의 뛰어난 디자인 스킬과 기술력이 빛을 발휘한 결과물인 것 같습니다.",
+        img:port01,
+        code:"https://github.com/subin313/port2023-vite",
+        view:"http://2023-subin-vite.netlify.app",
+        name:"박수빈 포트폴리오",
+    },
+    {
+        num:"09",
+        title:"박수빈 비트 포트폴리오",
+        desc:"라마 디자인을 통해 자신의 스킬을 가장 멋지게 표현한 포트폴리오입니다. 가로 모드와 세로 모드는 매우 인상적이며 특히 리액트와 비트를 이용하여 제작한 것은 더욱 놀랍습니다.이 사이트는 awwwards.com에도 인정받아 올라간 포트폴리오입니다. 확실히 그의 뛰어난 디자인 스킬과 기술력이 빛을 발휘한 결과물인 것 같습니다.",
+        img:port01,
+        code:"https://github.com/subin313/port2023-vite",
+        view:"http://2023-subin-vite.netlify.app",
+        name:"박수빈 포트폴리오",
+    },
+    {
+        num:"10",
+        title:"박수빈 비트 포트폴리오",
+        desc:"라마 디자인을 통해 자신의 스킬을 가장 멋지게 표현한 포트폴리오입니다. 가로 모드와 세로 모드는 매우 인상적이며 특히 리액트와 비트를 이용하여 제작한 것은 더욱 놀랍습니다.이 사이트는 awwwards.com에도 인정받아 올라간 포트폴리오입니다. 확실히 그의 뛰어난 디자인 스킬과 기술력이 빛을 발휘한 결과물인 것 같습니다.",
+        img:port01,
+        code:"https://github.com/subin313/port2023-vite",
+        view:"http://2023-subin-vite.netlify.app",
+        name:"박수빈 포트폴리오",
     },
 ]
