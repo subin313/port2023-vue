@@ -1,5 +1,5 @@
 <script setup>
-import { portText } from "@/constants";
+import { portText } from "@/constants/index.js";
 </script>
 
 <template>
