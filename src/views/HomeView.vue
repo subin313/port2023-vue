@@ -1,23 +1,23 @@
 <script setup>
-import HeaderSection from "@/components/HeaderSection.vue"
-import FooterSection from "@/components/FooterSection.vue"
-import ContactSection from "@/components/ContactSection.vue"
-import IntroSection from "@/components/IntroSection.vue"
-import PortSection from "@/components/PortSection.vue"
-import SiteSection from "@/components/SiteSection.vue"
-import SkillSection from "@/components/SkillSection.vue"
-import SkipSection from "@/components/SkipSection.vue"
+import Skip from "@/components/Skip.vue"
+import Header from "@/components/Header.vue"
+import Intro from "@/components/Intro.vue"
+import Skill from "@/components/Skill.vue"
+import Site from "@/components/Site.vue"
+import Port from "@/components/Port.vue"
+import Contact from "@/components/Contact.vue"
+import Footer from "@/components/Footer.vue"
 </script>
 
 <template>
-  <SkipSection/>
-  <HeaderSection/>
+  <Skip />
+  <Header />
   <main id="main" role="main">
-    <IntroSection/>
-    <SkillSection/>
-    <SiteSection/>
-    <PortSection/>
-    <ContactSection/>
+    <Intro />
+    <Skill />
+    <Site />
+    <Port />
+    <Contact />
   </main>
-  <FooterSection/>
+  <Footer />
 </template>
