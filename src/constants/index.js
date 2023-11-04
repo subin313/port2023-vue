@@ -1,3 +1,6 @@
+import port01 from "../assets/img/about.jpg";
+
+
 
 export const headerNav = [
     {
@@ -85,7 +88,6 @@ export const siteText = [
     },
 ]
 
-import port01 from "../assets/img/about.jpg";
 
 export const portText = [
     {
