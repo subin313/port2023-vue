@@ -224,4 +224,4 @@ export const footerText = [
         desc:  "scss를 이용한 사이트.",
     },
 ]
-
+  
