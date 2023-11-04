@@ -1,5 +1,5 @@
 <script setup>
-import { introText } from '@/constants/index';
+import { introText } from '../constants/index';
 
 </script>
 

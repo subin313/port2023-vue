@@ -1,5 +1,5 @@
 <script setup>
-import { siteText } from "@/constants/index";
+import { siteText } from "../constants/index";
 </script>
 
 <template>

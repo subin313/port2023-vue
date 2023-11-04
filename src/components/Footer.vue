@@ -1,5 +1,5 @@
 <script setup>
-import { footerText } from '@/constants';
+import { footerText } from '../constants';
 </script>
 <template>
     <footer id="footer" role="contentinfo">

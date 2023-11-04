@@ -1,5 +1,5 @@
 <script setup>
-import { contactText } from '@/constants';
+import { contactText } from '../constants';
 </script>
 <template>
     <section id="contact">

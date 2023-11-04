@@ -1,5 +1,5 @@
 <script setup>
-import {skillText} from "@/constants/index";
+import {skillText} from "../constants/index";
 </script>
 
 <template>
